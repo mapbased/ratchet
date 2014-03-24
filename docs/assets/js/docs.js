@@ -189,4 +189,4 @@ $(function() {
       new FingerBlast('.device-content');
     }
   });
-});
+})();
